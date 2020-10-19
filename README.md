@@ -26,8 +26,10 @@ Just add audio-describe.js to your website
 ```
 
 ## forms 
+```html
 <input type="checkbox" id="exampleCheck1">
 <label for="exampleCheck1">Check me out</label>
+```
 
 # Demo
 https://webroad.pl/demo/audio-described-navigation
